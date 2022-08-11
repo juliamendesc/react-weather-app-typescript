@@ -6,8 +6,8 @@ Basic react weather app consuming GeoDB and Open Weather Map APIs. Built with Re
 
 #### Example:
 
-<img src="../react-weather-app/.github/01.png">
-<img src="../react-weather-app/.github/02.png">
+<img src="https://raw.githubusercontent.com/juliamendesc/react-weather-app-typescript/main/.github/01.png">
+<img src="https://raw.githubusercontent.com/juliamendesc/react-weather-app-typescript/main/.github/02.png">
 
 ## Installation and Setup Instructions
 
